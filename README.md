@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Welcome to my profile! I am *Syahira Isnaeni Dewi*, currently studying at *Diponegoro University*. I'm a student, part-time coder and full-time adventure seeker. I'm currently learning back end web & mobile development. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I am *Syahira Isnaeni Dewi*, currently studying at *Diponegoro University*. I'm a student, part-time coder and full-time adventure seeker. I'm currently learning web development. Thanks for visiting and I'd love to connect!
 
 Vist my *[Instagram](https://www.instagram.com/cihuahua_15/) - [LinkedIn](https://www.linkedin.com/in/syahira-isnaeni-dewi-b58290206/)***
 
