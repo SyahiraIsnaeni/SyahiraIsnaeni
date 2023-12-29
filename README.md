@@ -2,7 +2,7 @@
 
 Welcome to my profile! I am *Syahira Isnaeni Dewi*, currently studying at *Diponegoro University*. I'm a student, part-time coder and full-time adventure seeker. I'm currently learning web development. Thanks for visiting and I'd love to connect!
 
-Vist my *[Instagram](https://www.instagram.com/cihuahua_15/) - [LinkedIn](https://www.linkedin.com/in/syahira-isnaeni-dewi-b58290206/)***
+Vist my *[Instagram](https://www.instagram.com/syahiraisnaeni/) - [LinkedIn](https://www.linkedin.com/in/syahira-isnaeni-dewi-b58290206/)***
 
 [![Linkedin: Syahira](https://img.shields.io/badge/-Syahira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/syahira-isnaeni-dewi-b58290206/)](https://www.linkedin.com/in/syahira-isnaeni-dewi-b58290206/)
 [![GitHub Syahira](https://img.shields.io/github/followers/SyahiraIsnaeni?label=follow&style=social)](https://github.com/SyahiraIsnaeni)
