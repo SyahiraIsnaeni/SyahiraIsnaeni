@@ -1,6 +1,10 @@
 ## Hello 👋
 
-Welcome to my profile! I am *Syahira Isnaeni Dewi*, currently studying at *Diponegoro University*. I'm a student, part-time coder and full-time adventure seeker. I'm currently learning web development. Thanks for visiting and I'd love to connect!
+👋 Hi there! I'm Syahira Isnaeni Dewi, a passionate Software Developer dedicated to crafting robust and user-friendly web applications. With a strong focus on both frontend and backend development, I thrive on creating seamless digital experiences.
+💡 I enjoy transforming ideas into impactful solutions using modern technologies and clean code practices. Collaboration and continuous learning drive me to excel in delivering high-quality projects.
+🌟 Let's build something amazing together! 
+
+Thanks for visiting and I'd love to connect!
 
 Vist my *[Instagram](https://www.instagram.com/syahiraisnaeni/) - [LinkedIn](https://www.linkedin.com/in/syahira-isnaeni-dewi-b58290206/)***
 
@@ -9,10 +13,9 @@ Vist my *[Instagram](https://www.instagram.com/syahiraisnaeni/) - [LinkedIn](htt
 
 ---
 
-- 🔭 I’m currently studying at *Diponegoro University*
-- 🌱 I’m currently learning *Back-end development*
+- 🔭 I’m currently working at PT. Yubi Technology
 - 👯 I’m looking to collaborate on projects
-- 💬 Ask me about *Back-end Development*
+- 💬 Ask me about *Back-end and Front-end Development*
 - 📫 How to reach me:
   *[LinkedIn](https://www.linkedin.com/in/syahira-isnaeni-dewi-b58290206/), [Instagram](https://www.instagram.com/cihuahua_15/)***
 
