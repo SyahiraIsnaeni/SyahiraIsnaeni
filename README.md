@@ -1,7 +1,9 @@
 ## Hello 👋
 
 👋 Hi there! I'm Syahira Isnaeni Dewi, a passionate Software Developer dedicated to crafting robust and user-friendly web applications. With a strong focus on both frontend and backend development, I thrive on creating seamless digital experiences.
+
 💡 I enjoy transforming ideas into impactful solutions using modern technologies and clean code practices. Collaboration and continuous learning drive me to excel in delivering high-quality projects.
+
 🌟 Let's build something amazing together! 
 
 Thanks for visiting and I'd love to connect!
