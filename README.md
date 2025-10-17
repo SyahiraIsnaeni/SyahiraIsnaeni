@@ -15,7 +15,7 @@ Vist my *[Instagram](https://www.instagram.com/syahiraisnaeni/) - [LinkedIn](htt
 
 ---
 
-- 🔭 I’m currently working at PT. Yubi Technology
+- 🔭 I’m currently working at Sudin Pendidikan Jakarta Utara
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about *Back-end and Front-end Development*
 - 📫 How to reach me:
