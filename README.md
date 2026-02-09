@@ -20,7 +20,3 @@ Vist my *[Instagram](https://www.instagram.com/syahiraisnaeni/) - [LinkedIn](htt
 - 💬 Ask me about *Back-end and Front-end Development*
 - 📫 How to reach me:
   *[LinkedIn](https://www.linkedin.com/in/syahira-isnaeni-dewi-b58290206/), [Instagram](https://www.instagram.com/cihuahua_15/)***
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyahiraIsnaeni&layout=compact&theme=dark&hide_border=true)
-
-![Syahira's github stats](https://github-readme-stats.vercel.app/api?username=SyahiraIsnaeni&show_icons=true&hide_border=true&theme=dark)
